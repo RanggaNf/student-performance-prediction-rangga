@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+.venv
+venv
+.git
+build_dashboard.py
+csv_to_sqlite.py
+screenshot_dashboard.py
+setup_metabase.py
+students_performance.db
+checklist_submission.md
+naskah_video_rangganf.txt
