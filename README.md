@@ -75,7 +75,7 @@ streamlit run app.py
 
 ### Prototype di Streamlit Community Cloud
 
-Link prototype: `https://student-performance-<username>.streamlit.app/`
+Link prototype: `https://student-performance-prediction-rangga-n9cveranmgjhmsju4b3qjy.streamlit.app/`
 
 Prototype ini menyediakan dua menu utama:
 - **Dashboard**: Visualisasi data dan faktor-faktor yang mempengaruhi dropout.
