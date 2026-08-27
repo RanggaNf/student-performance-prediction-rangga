@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib
@@ -17,9 +19,13 @@ def load_data():
 @st.cache_resource
 def load_model():
     model_path = os.path.join('model', 'model.pkl')
-    if os.path.exists(model_path):
+    if not os.path.exists(model_path):
+        return None
+    try:
         return joblib.load(model_path)
-    return None
+    except Exception as e:
+        st.error(f"Gagal memuat model: {e}")
+        return None
 
 df = load_data()
 model = load_model()
