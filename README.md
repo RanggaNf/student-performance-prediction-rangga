@@ -1,5 +1,9 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Institusi Pendidikan
 
+- **Nama:** Mohamad Rangga Nur Faizin
+- **Email:** mohammad.rangga.n.f@gmail.com
+- **Id Dicoding:** rangfaziii19
+
 ## Business Understanding
 
 Jaya Jaya Institut adalah institusi pendidikan tinggi yang telah berdiri sejak tahun 2000 dan memiliki reputasi baik dalam mencetak lulusan berkualitas. Namun, institusi ini menghadapi masalah serius: tingkat dropout (siswa tidak menyelesaikan studi) yang cukup tinggi. Tingginya angka dropout berdampak pada reputasi institusi, efektivitas pembelajaran, dan kerugian finansial.

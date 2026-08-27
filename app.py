@@ -33,9 +33,9 @@ model = load_model()
 # Identity
 st.sidebar.markdown("""
 ### Identitas
-- **Nama:** Mohammad Rangga Nugraha Firmansyah  
+- **Nama:** Mohamad Rangga Nur Faizin  
 - **Email:** mohammad.rangga.n.f@gmail.com  
-- **Id Dicoding:** rangganf
+- **Id Dicoding:** rangfaziii19
 """)
 
 # Sidebar navigation
